@@ -1,6 +1,6 @@
 # Python GIF Parser
 
-Extremely slow pure Python GIF parser - all of the fun and none of the profit. 
+Extremely slow pure Python GIF parser - all of the fun and none of the profit. Originally intended as a launching point for Python GUI experimentation. Became a learning experience after discovering GIFs taking 30+ seconds to decode.
 
 ## Benchmarks
 
